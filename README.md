@@ -43,32 +43,32 @@ Before you get started, make sure you have the following prerequisites installed
 
 3. Install the project dependencies:
    
-```
+   ```
    pip install -r requirements.txt
-  ```
+   ```
 
 4. Configure wkhtmltopdf in your Django settings, as explained here.
 
 5. Run the development server:
 
-```
+   ```
    python manage.py runserver
    ```
 
 
 ### Usage
 
-```markdown
-## Usage
+  ```markdown
 
-1. Visit the CV Generator website at [http://localhost:8000/](http://localhost:8000/) in your web browser.
 
-2. Sign up or log in to create your user profile.
+  1. Visit the CV Generator website at [http://localhost:8000/](http://localhost:8000/) in your web browser.
 
-3. Fill in your personal information, education, work experience, and skills.
+  2. Sign up or log in to create your user profile.
 
-4. Click the "Generate CV" button to generate your resume.
+  3. Fill in your personal information, education, work experience, and skills.
 
-5. Download the generated PDF resume to your computer.
+  4. Click the "Generate CV" button to generate your resume.
 
- ```
+  5. Download the generated PDF resume to your computer.
+
+  ```
